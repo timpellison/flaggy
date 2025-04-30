@@ -1,0 +1,6 @@
+services:
+    flaggy:
+        image: flaggy:latest
+        container_name: flaggy
+        ports:
+            - "8088:8080"
