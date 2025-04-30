@@ -2,7 +2,7 @@ package persistence
 
 import (
 	"errors"
-	"github.com/captechtimmy/flaggy/internal/model"
+	"github.com/timpellison/flaggy/internal/model"
 )
 
 type InMemoryStore struct {

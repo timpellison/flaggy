@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/captechtimmy/flaggy/internal/persistence"
-	"github.com/captechtimmy/flaggy/internal/server"
+	"github.com/timpellison/flaggy/internal/persistence"
+	"github.com/timpellison/flaggy/internal/server"
 )
 
 func main() {

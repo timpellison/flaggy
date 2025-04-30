@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/captechtimmy/flaggy/client"
+	"github.com/timpellison/flaggy/client"
 	"os"
 )
 

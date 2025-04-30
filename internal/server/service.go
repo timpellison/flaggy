@@ -2,7 +2,7 @@ package server
 
 import (
 	"encoding/json"
-	"github.com/captechtimmy/flaggy/internal/model"
+	"github.com/timpellison/flaggy/internal/model"
 	"log/slog"
 	"net/http"
 )

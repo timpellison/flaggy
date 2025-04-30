@@ -1,3 +1,3 @@
-module github.com/captechtimmy/flaggy
+module github.com/timpellison/flaggy
 
 go 1.24.2

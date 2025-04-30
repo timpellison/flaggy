@@ -3,7 +3,7 @@ package client
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/captechtimmy/flaggy/internal/model"
+	"github.com/timpellison/flaggy/internal/model"
 	"net/http"
 	"time"
 )
