@@ -48,10 +48,9 @@ Keep in mind when using feature flags that service level objectives (SLO) still 
 In this case, the alternative is blue/green deployment.
 
 ## A Real World Example
-We've been tasked with improving the query performance of a query used to return the last 5 comments on a blog post.
-Today, we've observed that the comments api returns the last 5 comments in 2 seconds.  We want to conduct an experiment
+We've been tasked with improving the query performance of a query used to return our account along with its balance in 2 seconds.  We want to conduct an experiment
 and use an alternative query.  In non-production, it's faster but we don't have the same amount of data as we
-do in Production and we don't have the same hardware.
+do in Production.
 
 
 ## Usage
