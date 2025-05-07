@@ -1,4 +1,5 @@
 # Flaggy!
+<img src="flaggy.png" alt="Flaggy!"/>
 Flaggy is an API that supports the most basic feature flag use case (On or Off).
 
 ## What is a Feature flag?
@@ -7,7 +8,7 @@ application to determine if a request should serve an old feature or a new featu
 state of the toggle.  For back-end systems "Feature" is synonymous with "Behavior".  In this case
 we're referring to a code block we want to use to accomplish a task.
 
-Used appropriately, feature flags allow us to test in production with manageable risk.  Many of our clients
+Used appropriately, feature flags allow us to ~~test~~ experiment in production with manageable risk.  Many of our clients
 do not grant access to production or do not allow us to run tests in production.  We can deploy and test all
 the way through pre-prod then we're left with a fingers crossed deployment to production, hoping that our 
 code still performs.
